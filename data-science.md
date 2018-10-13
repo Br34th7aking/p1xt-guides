@@ -23,9 +23,9 @@ Bookmark these blogs and try to read at least one article from one of them per w
 
 ## Tier 0 - prep
 - [x]  Course: [Question Everything: Scientific Thinking in Real Life](https://www.edx.org/course/question-everything-scientific-thinking-uqx-query101x-1)
-- [ ]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
-- [ ]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
-- [ ]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+- [x]  Book: [College Algebra](https://openstax.org/details/books/college-algebra) or Course: [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) or thorough knowledge of Algebra.
+- [x]  Book: [Precalculus](https://openstax.org/details/books/precalculus) or Course: [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) or [Khan Academy](https://www.khanacademy.org/math/precalculus) or thorough knowledge of Precalculus
+- [x]  Course: [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 - [ ]  Course Series: [Data Science Path on Cognitive Class](https://cognitiveclass.ai/learn/data-science/)
 - [ ]  Book: [Think Python](http://greenteapress.com/thinkpython2/thinkpython2.pdf)
 - [ ]  Project: Do all problems in Rosalind's [Python Village](http://rosalind.info/problems/list-view/?location=python-village)
@@ -36,7 +36,7 @@ Bookmark these blogs and try to read at least one article from one of them per w
 ## Tier 1 - foundations
 - [ ]  Course: [MongoDB for Developers](https://university.mongodb.com/courses/M101P/about) - note: this course is only intermittently offered, sign up at the start of Tier 1, then proceed to the other courses and return to this one when the next session opens up.
 - [ ]  Course: [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6)
-- [ ]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
+- [x]  Course: [Calculus One](https://www.coursera.org/learn/calculus1)  
 - [ ]  Course: [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
 - [ ]  Course Series: [Deep Learning Path on Cognitive Class](https://cognitiveclass.ai/learn/deep-learning/)
 - [ ]  Course: [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)

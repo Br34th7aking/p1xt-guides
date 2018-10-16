@@ -26,8 +26,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 2 - strengthen your foundation
 
-* [ ] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
-* [ ] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
+* [x] Course: [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)
+* [x] Course: [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)
 * [ ] Course: [Software Construction: Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x)
 * [ ] Course: [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 * [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
@@ -52,8 +52,8 @@ It has a plethora of hints, tips and answers to help you ensure you get the most
 
 ## Tier 3 - build on the foundation
 
-* [ ] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-* [ ] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
+* [x] Course: [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+* [x] Course: [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)
 * [ ] Project: Complete all Classic Puzzles - Medium on [CodinGame](https://www.codingame.com/) in JavaScript
 * [ ] Book: [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 * [ ] Course: [Software Testing](https://www.udacity.com/course/software-testing--cs258)
